@@ -1,3 +1,12 @@
 <resources>
+
     <string name="app_name">Ingredient Generator</string>
+
+    <string name="ingredient_type_protein">Protein</string>
+    <string name="ingredient_type_vegetable">Vegetable</string>
+    <string name="ingredient_type_grain">Grain</string>
+    <string name="ingredient_type_fruit">Fruit</string>
+
+    <string name="action_generate">Generate</string>
+
 </resources>
